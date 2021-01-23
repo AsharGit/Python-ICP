@@ -1,0 +1,11 @@
+There are a few differences between Python 2 and Python 3, the major differences are:
+
+1.  Library compatibility: Many Python 2 libraries are not compatible with Python 3 and as more developers are creating
+    libraries for Python 3, Python 2 will lag behind Python 3.
+2.  String storage: In Python 2 string were stored as ASCII while in Python 3 strings are stored as unicode by default.
+3.  Rounding: In Python 2 division of integers that would produce a decimal result would get rounded down to the
+    nearest int. In Python 3, the result is presented as a decimal value.
+4.  Syntax: There are some changes to the syntax between Python 2 and Python 3, an example is the print statement which
+    was changed to a function:
+    Python 2: print "Hello"
+    Python 3: print("Hello")
