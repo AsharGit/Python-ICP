@@ -1,4 +1,4 @@
-# Python-ICP-1
+# Python-ICP
 
 This ICP was used to get familiar with basic data and string manipulation in Python. Full details in wiki.
 
