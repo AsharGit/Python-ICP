@@ -1,5 +1,6 @@
 # Python-ICP
 
-This ICP was used to get familiar with basic data and string manipulation in Python. Full details in wiki.
+ICP-1: This ICP was used to get familiar with basic data and string manipulation in Python. Full details in wiki.
 
-Video for this ICP: https://youtu.be/LpRvztUm4HM
+Video for ICP-1: https://youtu.be/LpRvztUm4HM
+Wiki for ICP-1: https://github.com/AsharGit/Python-ICP/wiki
