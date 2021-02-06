@@ -17,7 +17,7 @@ Wiki for ICP-2:  https://github.com/AsharGit/Python-ICP/wiki/ICP-2
 
 
 
-## ICP-2: This ICP is an introduction to loops, lists, file input/output.
+## ICP-2: This ICP is an introduction classes, and Python libraries like BeautifulSoup and numpy
 
 Video for ICP-2: https://youtu.be/4qfOZ9eXEQ8
 
