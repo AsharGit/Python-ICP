@@ -19,6 +19,13 @@ Wiki for ICP-2:  https://github.com/AsharGit/Python-ICP/wiki/ICP-2
 
 ## ICP-3: This ICP is an introduction to classes, and Python libraries like BeautifulSoup and numpy
 
-Video for ICP-2: https://youtu.be/4qfOZ9eXEQ8
+Video for ICP-3: https://youtu.be/4qfOZ9eXEQ8
 
-Wiki for ICP-2:  https://github.com/AsharGit/Python-ICP/wiki/ICP-3
+Wiki for ICP-3:  https://github.com/AsharGit/Python-ICP/wiki/ICP-3
+
+
+## ICP-4: This ICP is an introduction to Deep Learning algorithms
+
+Video for ICP-4: https://youtu.be/uOI0CpbPKpI
+
+Wiki for ICP-4:  https://github.com/AsharGit/Python-ICP/wiki/ICP-4
