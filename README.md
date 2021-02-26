@@ -24,14 +24,14 @@ Video for ICP-3: https://youtu.be/4qfOZ9eXEQ8
 Wiki for ICP-3:  https://github.com/AsharGit/Python-ICP/wiki/ICP-3
 
 
-## ICP-4: This ICP is an introduction to Deep Learning algorithms
+## ICP-4: This ICP is an introduction to Deep Learning algorithms.
 
 Video for ICP-4: https://youtu.be/uOI0CpbPKpI
 
 Wiki for ICP-4:  https://github.com/AsharGit/Python-ICP/wiki/ICP-4
 
 
-## ICP-5: 
+## ICP-5: This ICP has us use Deep Learning to interpret and graph data.
 
 Video for ICP-5: https://youtu.be/7ZNkycuh55g
 
