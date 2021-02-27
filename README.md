@@ -36,3 +36,10 @@ Wiki for ICP-4:  https://github.com/AsharGit/Python-ICP/wiki/ICP-4
 Video for ICP-5: https://youtu.be/7ZNkycuh55g
 
 Wiki for ICP-5:  https://github.com/AsharGit/Python-ICP/wiki/ICP-5
+
+
+## ICP-6: This ICP we learn how to use clustering with KMean and PCA
+
+Video for ICP-6: https://youtu.be/Ca7iwYcC08U
+
+Wiki for ICP-6:  https://github.com/AsharGit/Python-ICP/wiki/ICP-6
