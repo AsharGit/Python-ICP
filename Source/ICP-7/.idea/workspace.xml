@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43c79ee-8614-4cee-8d1f-84f602a7552b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Lesson7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/natlang_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spelling_corrector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/natlang_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/natlang_processing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
