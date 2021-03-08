@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43c79ee-8614-4cee-8d1f-84f602a7552b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/natlang_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/natlang_processing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,8 +158,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.text_classification" />
       <item itemvalue="Python.natlang_processing" />
+      <item itemvalue="Python.text_classification" />
     </list>
     <recent_temporary>
       <list>
