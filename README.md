@@ -43,3 +43,20 @@ Wiki for ICP-5:  https://github.com/AsharGit/Python-ICP/wiki/ICP-5
 Video for ICP-6: https://youtu.be/Ca7iwYcC08U
 
 Wiki for ICP-6:  https://github.com/AsharGit/Python-ICP/wiki/ICP-6
+
+
+## ICP-7: This ICP we learn 
+
+Video for ICP-7: 
+
+Wiki for ICP-7:  https://github.com/AsharGit/Python-ICP/wiki/ICP-7
+
+
+## ICP-8: This ICP we learn how to use Neural Networks
+
+Video for ICP-8: https://youtu.be/aGO_ZN1bhdY
+
+Wiki for ICP-8:  https://github.com/AsharGit/Python-ICP/wiki/ICP-8
+
+
+
