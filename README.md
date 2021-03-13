@@ -45,9 +45,9 @@ Video for ICP-6: https://youtu.be/Ca7iwYcC08U
 Wiki for ICP-6:  https://github.com/AsharGit/Python-ICP/wiki/ICP-6
 
 
-## ICP-7: This ICP we learn 
+## ICP-7: This ICP we learn about natural language processing
 
-Video for ICP-7: 
+Video for ICP-7: https://youtu.be/aEehtGmP2l0
 
 Wiki for ICP-7:  https://github.com/AsharGit/Python-ICP/wiki/ICP-7
 
