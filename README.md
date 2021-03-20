@@ -59,4 +59,8 @@ Video for ICP-8: https://youtu.be/aGO_ZN1bhdY
 Wiki for ICP-8:  https://github.com/AsharGit/Python-ICP/wiki/ICP-8
 
 
+## ICP-9: This ICP we learn how to use Neural Networks for image classification
 
+Video for ICP-8: https://youtu.be/nqpAKpNawQs
+
+Wiki for ICP-8:  https://github.com/AsharGit/Python-ICP/wiki/ICP-9
