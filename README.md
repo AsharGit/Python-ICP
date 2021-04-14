@@ -64,3 +64,10 @@ Wiki for ICP-8:  https://github.com/AsharGit/Python-ICP/wiki/ICP-8
 Video for ICP-9: https://youtu.be/nqpAKpNawQs
 
 Wiki for ICP-9:  https://github.com/AsharGit/Python-ICP/wiki/ICP-9
+
+
+## ICP-10: This ICP we learn how to use Embedding layers
+
+Video for ICP-10: https://youtu.be/2zUB9WWFRwU
+
+Wiki for ICP-10:  https://github.com/AsharGit/Python-ICP/wiki/ICP-10
