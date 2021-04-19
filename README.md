@@ -71,3 +71,11 @@ Wiki for ICP-9:  https://github.com/AsharGit/Python-ICP/wiki/ICP-9
 Video for ICP-10: https://youtu.be/2zUB9WWFRwU
 
 Wiki for ICP-10:  https://github.com/AsharGit/Python-ICP/wiki/ICP-10
+
+
+## ICP-11: This ICP we learn how to build a CNN model to classify images
+
+Video for ICP-11: https://youtu.be/_0pIDVdiXoA
+
+Wiki for ICP-11:  https://github.com/AsharGit/Python-ICP/wiki/ICP-11
+
