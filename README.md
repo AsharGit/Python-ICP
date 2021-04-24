@@ -79,3 +79,11 @@ Video for ICP-11: https://youtu.be/_0pIDVdiXoA
 
 Wiki for ICP-11:  https://github.com/AsharGit/Python-ICP/wiki/ICP-11
 
+
+## ICP-12: This ICP we learn how to use sentiment analysis on text
+
+Video for ICP-12: https://youtu.be/OioznRMrdQs
+
+Wiki for ICP-12:  https://github.com/AsharGit/Python-ICP/wiki/ICP-12
+
+
